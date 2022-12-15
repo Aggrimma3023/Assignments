@@ -1,0 +1,5 @@
+print ("Enter three numbers")
+first_no=float(input())
+second_no=float(input())
+third_no=float(input())
+print ("Average of the given numbers is: "+ str((first_no+second_no+third_no)/3))
